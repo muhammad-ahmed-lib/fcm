@@ -6,11 +6,6 @@ import android.os.Bundle
 /**
  * Abstract class for building Firebase Cloud Messaging (FCM) functionality.
  * Provides methods for setting up FCM service, adding analytics, and handling topic subscriptions.
- *
- * @param context The application context used for initializing the FCM service.
- * @param mTopic The topic to which the app subscribes/unsubscribes.
- * @param mEnableAnalytics Flag to enable or disable analytics tracking.
- * @param mAnalyticsBundle Optional analytics data bundle.
  */
 abstract class ASKFCMBuilder {
 
