@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002567980014",
+    "project_id": "network-tools-faf6c",
+    "storage_bucket": "network-tools-faf6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002567980014:android:1dc9484cd9596e008b74ff",
+        "android_client_info": {
+          "package_name": "com.ask.technologies.fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2A-Dqw24_UjGGxJ3zYRdtYF5C1yTeO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002567980014:android:30ad4f85b43776f78b74ff",
+        "android_client_info": {
+          "package_name": "com.networktools.dualsim.force"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN2A-Dqw24_UjGGxJ3zYRdtYF5C1yTeO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
